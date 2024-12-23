@@ -1,28 +1,34 @@
-# AdventOFcode2024
-ALL SOLUTIONS FROM 
-<HTML>https://adventofcode.com/2024/leaderboard/private/view/4804405
-  <HTML>
-1. DAY - 1
-2. DAY - 2
-3. DAY - 3
-4. DAY - 4
-5. DAY - 5
-6. DAY- 6
-7. DAY - 7
-8. DAY - 8
-9. DAY - 9
-10. DAY -10
-11. DAY - 11
-12. DAY-12
-13. DAY - 13
-14. DAY - 14
-15. DAY -15
-16. DAY - 16
-17. DAY- 17
-18. DAY - 18
-19. DAY -19
-20. DAY - 20
-21. DAY - 21
-22. DAY - 22
-23. DAY - 23
+# Advent of Code 2024
+
+This repository contains all my solutions for the [Advent of Code 2024](https://adventofcode.com/2024/leaderboard/private/view/4804405). Each day's challenge has been solved and documented.
+
+## Solutions
+
+1. **Day 1**
+2. **Day 2**
+3. **Day 3**
+4. **Day 4**
+5. **Day 5**
+6. **Day 6**
+7. **Day 7**
+8. **Day 8**
+9. **Day 9**
+10. **Day 10**
+11. **Day 11**
+12. **Day 12**
+13. **Day 13**
+14. **Day 14**
+15. **Day 15**
+16. **Day 16**
+17. **Day 17**
+18. **Day 18**
+19. **Day 19**
+20. **Day 20**
+21. **Day 21**
+22. **Day 22**
+23. **Day 23**
+
+### Links
+- Visit my Advent of Code 2024 page: [Advent of Code 2024](https://adventofcode.com/2024/leaderboard/private/view/4804405)
+
 
