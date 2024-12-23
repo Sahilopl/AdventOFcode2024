@@ -1,5 +1,7 @@
 # AdventOFcode2024
 ALL SOLUTIONS FROM 
+<HTML>https://adventofcode.com/2024/leaderboard/private/view/4804405
+  <HTML>
 1. DAY - 1
 2. DAY - 2
 3. DAY - 3
